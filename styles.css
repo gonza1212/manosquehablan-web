@@ -1,0 +1,253 @@
+body{
+    padding-top: 60px;
+
+}
+
+
+#col03989e{
+    background-color: #03989e;
+    
+}
+#f1aa40{
+    background-color: #f1aa40;
+}
+#b2ebf2{
+    background-color: #212121;
+}
+.colLogo{
+    height: auto;
+    width: 60%;
+}
+.colLogo2{
+    height: auto;
+    width: 70%;
+}
+.colLogo3{
+    height: auto;
+    width: 80%;
+}
+
+.colInicio{
+    height: 100vh; display: flex; justify-content: center; align-items: center;
+}
+.formInsc{
+    background-color: #eee;
+}
+#mPersonalizada{
+    margin-top: 6em;
+}
+#tituloEquipo{
+    text-decoration: none;
+}
+/* ******************************************************************************************** */
+/* MODIFICACIONES */
+#home_intro {
+    background-color: #000;
+}
+
+/* ROWS & COLUMNS */
+#home_quienes_somos {
+    background-color: #eee;
+    padding-top: 6em;
+    padding-bottom: 7em;
+}
+
+#home_diferencia {
+    padding-top: 9em;
+    color: black;
+    background-color: #fff;
+    background: repeating-linear-gradient( -45deg, #03999e07, #03999e10 5px, #fff 5px, #fff 25px );
+    padding-bottom: 4em;
+}
+
+#home_interpretaciones {
+    padding-top: 9em;
+    padding-bottom: 5em;
+    background-color: #03989e20;
+}
+
+#home_formacion_interpretes {
+    padding-top: 10em;
+}
+
+#home_comentarios_alumnos {
+    padding-top: 9em;
+    padding-bottom: 4em;
+}
+
+#home_pasantias {
+    padding-top: 9em;
+    background-color: #eee;
+    padding-bottom: 2em;
+}
+
+#home_inscripciones {
+    padding-top: 9em;
+    padding-bottom: 4em;
+}
+
+#home_porque_estudiar {
+    background-color: #00c9d40b;
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
+
+#home_equipo {
+    padding-top: 9em;
+    padding-bottom: 4em;
+}
+
+#home_contacto {
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+footer {
+    background-color: #03989e;
+    color: white;
+}
+
+#informacion_formacion {
+    margin-top: 5em;
+    margin-bottom: 0;
+}
+
+#contacto_formulario {
+    margin-top: 8em;
+}
+
+/* BOTONES Y TEXTO */
+
+.text-instituto {
+    color: #03989e;
+}
+
+.btn-primary-lsa {
+    background-color: #03989e;
+    color: white;
+}
+.btn-primary-lsa:hover {
+    background-color: #00cbd4;
+    color: white;
+    transition: .5s;
+}
+
+.btn-outline-lsa {
+    border-color: #03989e;
+    color: #03989e;
+    background-color: transparent;
+}
+.btn-outline-lsa:hover {
+    background-color: #03989e;
+    color: white;
+    transition: .5s;
+}
+
+.btn-primary-turismo {
+    background-color: #212121;
+    color: white;
+    display: inline-block;
+}
+.btn-primary-turismo:hover {
+    background-color: #313131;
+    color: white;
+    transition: .5s;
+}
+
+.btn-primary-plataforma {
+    background-color: #f1aa40;
+    color: black;
+}
+.btn-primary-plataforma:hover {
+    background-color: #ffbd5b;
+    border-color: #ffbd5b;
+    transition: .5s;
+}
+
+.btn-primary-mp {
+    background-color: #009ee3;
+    border-color: #009ee3;
+    color: white;
+}
+
+.btn-primary-mp:hover {
+    background-color: #008ac6;
+    border-color: #008ac6;
+    color: white;
+}
+
+/* ANIMACIONES DE IMAGENES */
+.caption-style-1{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.caption-style-1 li{
+    float: left;
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.caption-style-1 li:hover .caption{
+    opacity: 1;
+
+}
+
+
+.caption-style-1 img{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    z-index: 4;
+}
+
+
+.caption-style-1 .caption{
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    -webkit-transition:all 0.45s ease-in-out;
+    -moz-transition:all 0.45s ease-in-out;
+    -o-transition:all 0.45s ease-in-out;
+    -ms-transition:all 0.45s ease-in-out;
+    transition:all 0.45s ease-in-out;
+
+}
+.caption-style-1 .blur{
+    background-color: rgba(0,0,0,0.65);
+    height: 300px;
+    width: 100%;
+    z-index: 5;
+    position: absolute;
+}
+
+.caption-style-1 .caption-text h1{
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.caption-style-1 .caption-text{
+    z-index: 10;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    top:100px;
+}
+
+.lista-color ol {
+	list-style: none;
+	counter-reset: contador1;
+}
+.lista-color ol li {
+	counter-increment: contador1;
+}
+
+.lista-color ol li::before {
+	content: counter(contador1) ". ";
+	color: #03989e;
+	font-weight: bold;
+}

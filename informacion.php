@@ -24,7 +24,7 @@ include_once 'navbar.php';
     <section class="container">
         <div class="row p-3 m-3 justify-content-center mt-5">
             <div class="col-md-6">
-                <img class="img-fluid rounded-3 shadow-lg" src="./media/imagen de inicio.jpg" alt="" >
+                <img class="img-fluid rounded-3 shadow-lg" src="./public/media/images/imagen de inicio.jpg" alt="" >
             </div>
             <div class="col-md-6">
                 <h2 class="mt-5">Modalidad grupal</h2>
@@ -41,7 +41,7 @@ include_once 'navbar.php';
     <section id="mPersonalizada" class="container">
         <div class="row p-3 m-3 justify-content-center mt-5">
             <div class="col-md-6">
-                <img class="img-fluid rounded-3 shadow-lg" src="./media/personalizada.jpeg" alt="" >
+                <img class="img-fluid rounded-3 shadow-lg" src="./public/media/images/personalizada.jpeg" alt="" >
             </div>
             <div  class="col-md-6">
                 <h2 class="mt-5">Modalidad personalizada</h2>

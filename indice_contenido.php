@@ -75,7 +75,7 @@ include_once 'navbar.php';
                             <div class="card p-2">
                                 <div class="card-body">
                                     <h4 class="card-title mb-5" style="white-space: nowrap">2021</h5>
-                                    <a href="2021_12.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                    <a href="2021.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
                                 </div>
                             </div>
                         </div>

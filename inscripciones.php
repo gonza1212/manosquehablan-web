@@ -13,7 +13,7 @@ include_once 'navbar.php';
             </div>
         </div>
         <div class="col-md-3 offset-md-1 my-5">
-            <img src="./media/lsa.png" alt="lengua de señas" class="img-fluid">
+            <img src="./public/media/images/lsa.png" alt="lengua de señas" class="img-fluid">
         </div>
     </div>
 </header>

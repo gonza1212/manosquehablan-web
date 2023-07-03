@@ -20,39 +20,39 @@ include_once 'navbar.php';
     <div class="col-md-12">
         <div class="card-group">
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/1.png" class="card-img-top" alt="...">
+                <img src="./public/media/images/GRADUACIONES/1.png" class="card-img-top" alt="...">
             </div>
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/2.png" class="card-img-top" alt="...">
+                <img src="./public/media/images/GRADUACIONES/2.png" class="card-img-top" alt="...">
             </div>
             </div>
             <div class="card-group">
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/3.png" class="card-img-top" alt="...">
+                <img src="./public/media/images/GRADUACIONES/3.png" class="card-img-top" alt="...">
             </div>
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/4.png" class="card-img-top img-fluid" alt="...">
+                <img src="./public/media/images/GRADUACIONES/4.png" class="card-img-top img-fluid" alt="...">
             </div>
         </div>
             <div class="card-group">
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/5.png" class="card-img-top" alt="...">
+                <img src="./public/media/images/GRADUACIONES/5.png" class="card-img-top" alt="...">
             </div>
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/6.png" class="card-img-top img-fluid" alt="...">
+                <img src="./public/media/images/GRADUACIONES/6.png" class="card-img-top img-fluid" alt="...">
             </div>
             </div>
             <div class="card-group">
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/7.png" class="card-img-top img-fluid" alt="...">
+                <img src="./public/media/images/GRADUACIONES/7.png" class="card-img-top img-fluid" alt="...">
             </div>
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/8.png" class="card-img-top img-fluid" alt="...">
+                <img src="./public/media/images/GRADUACIONES/8.png" class="card-img-top img-fluid" alt="...">
             </div>
             </div>
             <div class="card-group">
             <div class="card p-4">
-                <img src="./media/GRADUACIONES/9.png" class="card-img-top img-fluid" alt="...">
+                <img src="./public/media/images/GRADUACIONES/9.png" class="card-img-top img-fluid" alt="...">
             </div>
         </div>    
     </div>

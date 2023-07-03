@@ -21,16 +21,16 @@ include_once 'passwords.php';
         <div id="carousel_020616" class="carousel slide shadow-lg" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/2016/02 DE JUNIO.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/02 DE JUNIO.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/02 DE JUNIO(1).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/02 DE JUNIO(1).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/02 DE JUNIO(2).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/02 DE JUNIO(2).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/02 DE JUNIO(3).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/02 DE JUNIO(3).jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carousel_020616" data-bs-slide="prev">
@@ -70,10 +70,10 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
             <div id="carousel_1016" class="carousel slide shadow-lg" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/asam congreso.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/asam congreso.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/asam congreso 1.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/asam congreso 1.jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carousel_1016" data-bs-slide="prev">
@@ -112,39 +112,39 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/2016/26 de noviembre(3).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/26 de noviembre(3).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/26 de noviembre(2).JPG" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/26 de noviembre(2).JPG" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre.mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre.mp4" type="video/mp4">
                         </video> 
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre (2).mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre (2).mp4" type="video/mp4">
                         </video> 
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre (3).mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre (3).mp4" type="video/mp4">
                         </video> 
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre (4).mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre (4).mp4" type="video/mp4">
                         </video> 
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre(1).mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre(1).mp4" type="video/mp4">
                         </video> 
                     </div>
                     <div class="carousel-item">
                         <video width="100%" height="auto" autoplay muted controls>
-                            <source src="./media/2016/26 de noviembre(2).mp4" type="video/mp4">
+                            <source src="./public/media/manosquehablan-web-master/2016/26 de noviembre(2).mp4" type="video/mp4">
                         </video> 
                     </div>
                 </div>
@@ -180,28 +180,28 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
             <div id="carousel_271116" class="carousel slide shadow-lg" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/2016/27 de noviembre(5).JPG" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 de noviembre(5).JPG" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 de noviembre (2).JPG" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 de noviembre (2).JPG" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(2).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(2).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(3).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(3).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(4).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(4).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(1).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(1).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE15241418_1808882979354004_5183887927585479108_n.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE15241418_1808882979354004_5183887927585479108_n.jpg" class="d-block w-100" alt="...">
                     </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carousel_271116" data-bs-slide="prev">
@@ -217,7 +217,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
         <div class="row my-5 justify-content-center">
             <div class="col-md-6">
                 <video width="100%" height="auto" autoplay muted controls>
-                    <source src="./media/2016/27 DE NOVIEMBRE.mp4" type="video/mp4">
+                    <source src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE.mp4" type="video/mp4">
                 </video> 
             </div>
         </div>                
@@ -230,7 +230,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
     </div>
     <div class="row justify-content-center">
         <div class="col-md-4 p-4 mt-md-5">
-            <img class="img-fluid shadow-lg" src="./media/interpretacion a Ruben.jpg" alt="" >
+            <img class="img-fluid shadow-lg" src="./public/media/images/interpretacion a Ruben.jpg" alt="" >
         </div>
         <div class="col-md-4 p-4 ">
             <h2 class="mt-5 fst-italic text-center">Jornada de Sistema de Gestión de Reservas de Pasajes on-line para personas con discapacidad.</h2>
@@ -247,7 +247,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
 <section class="container my-5 ">
     <div class="row ">
         <div class="col-md-6 p-5 align-middle ">
-            <img class="img-fluid shadow-lg" src="./media/victorica.jpg" alt="" >
+            <img class="img-fluid shadow-lg" src="./public/media/images/victorica.jpg" alt="" >
         </div>
         <div class="col-md-6 p-4  ">
             <h2 class="mt-5 fst-italic text-center">Victorica accesible</h2>
@@ -269,13 +269,13 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
                 <div id="carousel_1017" class="carousel slide shadow-lg" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="./media/congresopico1.jpg" class="d-block w-100" alt="...">
+                            <img src="./public/media/images/congresopico1.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="./media/congresopico2.jpg" class="d-block w-100" alt="...">
+                            <img src="./public/media/images/congresopico2.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="./media/congresopico3.jpg" class="d-block w-100" alt="...">
+                            <img src="./public/media/images/congresopico3.jpg" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carousel_1017" data-bs-slide="prev">
@@ -323,10 +323,10 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
             <div id="carousel_0918" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/tallerRA2.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/tallerRA2.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/tallerRA1.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/tallerRA1.jpg" class="d-block w-100" alt="...">
                     </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carousel_0918" data-bs-slide="prev">
@@ -360,10 +360,10 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
             <div id="carousel_1018" class="carousel slide shadow-lg" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/educacion inclusiva.jpeg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/educacion inclusiva.jpeg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/educacion inclusiva 1.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/images/educacion inclusiva 1.jpg" class="d-block w-100" alt="...">
                     </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carousel_1018" data-bs-slide="prev">
@@ -386,7 +386,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
 <section class="container my-5">
     <div class="row ">
         <div class="col-md-6 p-4 mt-md-5">
-            <img class="img-fluid shadow-lg" src="./media/disp escucha.jpg" alt="" >
+            <img class="img-fluid shadow-lg" src="./public/media/images/disp escucha.jpg" alt="" >
         </div>
         <div class="col-md-6 p-4 ">
             <h2 class="mt-5 fst-italic text-center">“Dispositivos de escucha: funcionamiento y cuidados”.</h2>
@@ -407,7 +407,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
         <div class="col-md-6 p-4 mt-md-5">
             <div class="shadow-lg" >
                 <video  width="100%" controls autoplay muted>
-                    <source src="media/sanmartin_MOV_AdobeExpress.mp4" type="video/mp4">
+                    <source src="./public/media/video/sanmartin_MOV_AdobeExpress.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -454,7 +454,7 @@ Organizadores.-Gobierno de la Provincia de La Pampa a través del Ministerio de 
         <div class="col-md-4 p-4 mt-md-5">
             <div class="shadow-lg" >
                 <video  width="100%" controls autoplay muted>
-                    <source src="media/interpretaciones/2023/interpretacion_fernanda_alonso.mp4" type="video/mp4">
+                    <source src="./public/media/video/interpretacion_fernanda_alonso.mp4" type="video/mp4">
                 </video>
             </div>
         </div>

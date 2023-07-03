@@ -4,14 +4,14 @@
                     <div class="row">
                         <div class="col-md-6 text-center">
                             <a href="turismo.php">
-                                <img src="./media/TurismoLSA.png" alt="Turismo" width="80">
+                                <img src="./public/media/images/TurismoLSA.png" alt="Turismo" width="80">
                             </a>
                             <hr>
                             <h5>Turismo Accesible</h5>
                         </div>
                         <div class="col-md-6 text-center">
                             <a href="https://interprete-ya.com.ar/" target="_blank">
-                                <img src="./media/interprete.png" alt="Plataforma" width="80">
+                                <img src="./public/media/images/interprete.png" alt="Plataforma" width="80">
                             </a>
                             <hr>
                             <h5>Intérprete Ya</h5>
@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-md-4 mt-3 py-5 text-center" id="logo instituto">
                     <a href="#">
-                        <img src="./media/LOGO.PNG" alt="instituto" width="128">
+                        <img src="./public/media/images/logo_v3.png" alt="instituto" width="128">
                     </a>
                     <h5 class="mt-3">Manos que Hablan Rostros que Expresan</h5>
                     <p>Instituto de Lengua de Señas Argentina</p>
@@ -28,13 +28,13 @@
                 <div class="col-md-4  mt-3 py-5 text-center" id="redes sociales">
                     <div class="row">
                         <div class="col-md-4 my-3" id="logo instituto">
-                            <a href="https://wa.me/542954313658/?text=Hola, me interesa aprender Lengua de Señas, información por favor." target="_blank"><img src="./media/wsp-logo.png" alt="..." width="65"></a>
+                            <a href="https://wa.me/542954313658/?text=Hola, me interesa aprender Lengua de Señas, información por favor." target="_blank"><img src="./public/media/images/wsp-logo.png" alt="..." width="65"></a>
                         </div>
                         <div class="col-md-4 my-3" id="turismo y plataforma">
-                            <a href="https://www.instagram.com/manosquehablan_lsa/" target="_blank"><img src="./media/insta-logo.png" alt="..." width="65"></a>
+                            <a href="https://www.instagram.com/manosquehablan_lsa/" target="_blank"><img src="./public/media/images/insta-logo.png" alt="..." width="65"></a>
                         </div>
                         <div class="col-md-4 my-3" id="redes sociales">
-                            <a href="https://www.facebook.com/Manos-que-hablan-Rostros-que-expresan-1622812994627671/" target="_blank"><img src="./media/face-logo.png" alt="..." width="65"></a>
+                            <a href="https://www.facebook.com/Manos-que-hablan-Rostros-que-expresan-1622812994627671/" target="_blank"><img src="./public/media/images/face-logo.png" alt="..." width="65"></a>
                         </div>
                     </div>
                     <h5 class="mt-5">¡Seguinos en nuestras redes sociales!</h5>

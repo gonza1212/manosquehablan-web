@@ -7,7 +7,7 @@ include_once 'navbar.php';
 <header class="container mt-5">
     <div class="row">
         <div class="col-md-3 offset-md-1 my-5 text-center">
-            <img src="./media/TurismoLSA.png" alt="lengua de señas" style="width: 80%; height: auto;">
+            <img src="./public/media/images/TurismoLSA.png" alt="lengua de señas" style="width: 80%; height: auto;">
         </div>
         <div class="col-md-6">
             <div class="p-5 mb-4 rounded-3 my-5">
@@ -23,7 +23,7 @@ include_once 'navbar.php';
         <div class="col-md-12 text-center m-0 p-0">
             <h1>¡Preparate para un viaje increíble!</h1>
             <video muted controls style="height: 90vh; width:100%;" class="mt-4">
-                <source src="./media/turismo_trailer.mp4" type="video/mp4">
+                <source src="./public/media/video/turismo_trailer.mp4" type="video/mp4">
             </video> 
         </div>
     </div>
@@ -34,7 +34,7 @@ include_once 'navbar.php';
         <div class="col-md-12 text-center m-0 p-0">
             <h3 class="my-4">Descripción del proyecto Turismo LSA</h3>
             <video muted controls style="height: 90vh; width:100%;">
-                <source src="./media/turismo.mp4" type="video/mp4">
+                <source src="./public/media/video/turismo.mp4" type="video/mp4">
             </video> 
         </div>
     </div>

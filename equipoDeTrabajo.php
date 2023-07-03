@@ -12,7 +12,7 @@ include_once 'navbar.php';
                 <div class="col-md-12">
                     <div class="card-group">
                         <div class="card p-4">
-                            <img src="./media/noelia.jpg" class="card-img-top" alt="...">
+                            <img src="./public/media/images/noelia.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Noelia Campana</h5>
                                 <p class="card-text">Profesora y asesora Sorda</p>
@@ -20,7 +20,7 @@ include_once 'navbar.php';
                             </div>
                         </div>
                         <div class="card p-4">
-                            <img src="./media/IMG-4555.JPG" class="card-img-top" alt="...">
+                            <img src="./public/media/images/IMG-4555.JPG" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Facundo Cortez</h5>
                                 <p class="card-text">Intérprete e instructor en Lengua de Señas</p>
@@ -28,7 +28,7 @@ include_once 'navbar.php';
                             </div>
                         </div>
                         <div class="card p-4">
-                            <img src="./media/martin.jpeg" class="card-img-top" alt="...">
+                            <img src="./public/media/images/martin.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Martín D’Abate</h5>
                                 <p class="card-text">Profesor Sordo</p>
@@ -38,7 +38,7 @@ include_once 'navbar.php';
                     </div>    
                     <div class="card-group">
                         <div class="card p-4">
-                            <img src="./media/ani.JPEG" class="card-img-top img-fluid" alt="...">
+                            <img src="./public/media/images/ani.JPEG" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Ana Hrytsyuk</h5>
                                 <p class="card-text">Intérprete en Lengua de Señas. Intérprete de Ruso</p>
@@ -46,7 +46,7 @@ include_once 'navbar.php';
                             </div>
                         </div>
                         <div class="card p-4">
-                            <img src="./media/yazca.JPEG" class="card-img-top" alt="...">
+                            <img src="./public/media/images/yazca.JPEG" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Yazmin Silva</h5>
                                 <p class="card-text">Intérprete e instructora en Lengua de Señas</p>
@@ -54,7 +54,7 @@ include_once 'navbar.php';
                             </div>
                         </div>
                         <div class="card p-4">
-                            <img src="./media/sonia1.jpg" class="card-img-top img-fluid" alt="...">
+                            <img src="./public/media/images/sonia1.jpg" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Sonia Schneider</h5>
                                 <p class="card-text">Directora</p>
@@ -86,7 +86,7 @@ include_once 'navbar.php';
             <div class="col-md-6 p-5">
                 <div class="shadow-lg" >
                     <video  width="100%" controls autoplay muted>
-                        <source src="media/5_datos_instituto.mp4" type="video/mp4">
+                        <source src="./public/media/video/5_datos_instituto.mp4" type="video/mp4">
                     </video>
                 </div>
             </div>

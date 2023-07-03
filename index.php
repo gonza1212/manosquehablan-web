@@ -3,81 +3,12 @@ $titulo = "Inicio";
 include_once 'header.php';
 include_once 'navbar.php';
 ?>
-<section class="container-fluid text-center mb-5" id="home_intro" style="background-color: #fed2f5; padding: 0;">
-    <a href="lsa_docentes.php">
-        <img src="./media/portada-ebook-01f.jpeg" alt="Portada" class="img-fluid">
+<section class="container-fluid text-center" id="home_intro" style="background-color: #fed2f5; padding: 0;">
+    <a href="http://manosquehablanrostrosqueexpres.tiendup.com/p/las-vocales-en-lengua-de-senas">
+        <img src="./public/media/images/portada-ebook-01f.jpeg" alt="Portada" class="img-fluid">
     </a>
 </section>
-<!--
-<section class="container-fluid text-center mb-5" id="home_intro">
-    <video width="80%" height="auto" autoplay muted loop>
-        <source src="./media/NIVEL 1 Primera Clase. Prof.Carlos new new.MP4" type="video/mp4">
-    </video>
-</section> -->
-<!-- lo que hacemos antiguo
-<header class="container my-5 p-5">
-    <div class="row justify-content-center">
-        <div class="col-md-12 text-center">
-            <h1 class="fw-bold text-center text-instituto">Manos que Hablan, Rostros que Expresan <sup>&reg</sup></h1>
-            <p class="text-muted">(INPI: Nro. resolución: 3370240 Expediente: 4041488)</p>
-            <p class="col-md-12 fs-4 justify-content-center mt-4 mb-2">Instituto de Lengua de Señas Argentina. Contamos con profesores Sordos e intérpretes avalados por el Ministerio de Educación</p>
-            <h3 class="my-5">Lo que hacemos</h3>
-            <div class="row justify-content-center">
-                <div class="col-md-3 m-3">
-                    <a href="#">
-                        <img src="./media/LOGO.PNG" alt="instituto" width="80%">
-                    </a>
-                    <hr>
-                    <h2>Instituto</h2>
-                    <a class="btn btn-primary-lsa btn-lg mt-5 " href="informacion.php">Más información</a>
-                </div>
-                <div class="col-md-3 m-3">
-                    <a href="turismo.php">
-                        <img src="./media/TurismoLSA.png" alt="Turismo" width="80%">
-                    </a>
-                    <hr>
-                    <h2>Turismo Accesible</h2>
-                    <a class="btn btn-primary-turismo btn-lg mt-5 " href="turismo.php">Conocer</a>
-                </div>
-                <div class="col-md-3 m-3">
-                    <a href="https://interprete-ya.com.ar" target="_blank">
-                        <img src="./media/interprete.png" alt="Plataforma" width="80%">
-                    </a>
-                    <hr>
-                    <h2>Plataforma</h2>
-                    <a class="btn btn-primary-plataforma btn-lg mt-5 " href="https://interprete-ya.com.ar" target="_blank">Saber Más</a>
-                </div>
-            </div>
-        </div>               
-    </div>
-</header> -->
-<header class="container my-5 p-5">
-    <div class="row justify-content-center">
-        <div class="col-md-12 text-center">
-            <h1 class="fw-bold text-center text-instituto">Manos que Hablan, Rostros que Expresan <sup>&reg</sup></h1>
-            <p class="text-muted">(INPI: Nro. resolución: 3370240 Expediente: 4041488)</p>
-            <p class="col-md-12 fs-4 justify-content-center mt-4 mb-2">Instituto de Lengua de Señas Argentina. Contamos con profesores Sordos e intérpretes avalados por el Ministerio de Educación</p>
-            <h3 class="my-5"><a href="lo-que-hacemos.php" class="btn btn-primary-lsa btn-lg">Lo que hacemos</a></h3>            
-        </div>               
-    </div>
-</header>
-<section class="container-fluid" id="home_quienes_somos">
-        <div class="row justify-content-center">
-            <div class="col-md-5"> 
-                <h2 class="fw-bold ">¿Quiénes somos?</h2>
-                    <p class="pt-5 fs-5" >"Manos que Hablan Rostros que Expresan" es el primer centro de Enseñanza de Lengua de Señas en la provincia de La Pampa. Sus integrantes llevan más de 15 años en contacto estrecho con la comunidad Sorda de todo el país.</p>
-                    <p class="pt-3 fs-5">Tiene por objetivos primordiales, la ejecución de políticas, servicios y actividades tendentes a la dignificación de las Personas Sordas, a su plena integración social en condiciones de igualdad de oportunidades, y a la eliminación de todas las barreras de comunicación en todos los ámbitos de la sociedad (comercial, educativo, judicial, de salud, etc.) que impidan dicha integración social.</p>
-                    <p class="pt-3 fs-5">Atención preferente se da al estudio, investigación y enseñanza de la Lengua de Señas Argentina, como uno de los instrumentos facilitados de la participación de las personas Sordas en el quehacer colectivo, afirmándose, con carácter esencial, la radical libertad, dignidad e integridad de todas la comunidad Sorda.</p>
-                    <a class="btn btn-primary-lsa btn-lg mt-5" href="nuestrosComienzos.php">Ver Graduaciones</a>
-            </div>
-            <div class="col-md-5 d-flex p-4">
-                <video width="100%" height="auto" autoplay muted loop>
-                    <source src="./media/giff de portada.MOV" type="video/mp4">
-                </video>
 
-            </div>
-        </div>
-</section>
 <article class="container-fluid" id="home_diferencia">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
@@ -103,13 +34,13 @@ include_once 'navbar.php';
             <div id="carousel_interpretaciones" class="carousel slide shadow" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./media/2016/02 DE JUNIO.jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/02 DE JUNIO.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(1).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(1).jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="./media/2016/27 DE NOVIEMBRE(2).jpg" class="d-block w-100" alt="...">
+                        <img src="./public/media/manosquehablan-web-master/2016/27 DE NOVIEMBRE(2).jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carousel_interpretaciones" data-bs-slide="prev">
@@ -127,7 +58,7 @@ include_once 'navbar.php';
 <article class="container-fluid" id="home_formacion_interpretes">
     <div class="row justify-content-center">
         <div class="col-md-4">
-            <img src="./media/home_formacion.png" alt="graduacion de estudiantes" class="img-fluid">
+            <img src="./public/media/images/home_formacion.png" alt="graduacion de estudiantes" class="img-fluid">
         </div>
         <div class="col-md-4 offset-md-1 pt-4">
             <h2 class="fw-bold">Formación de intérpretes</h2>
@@ -215,7 +146,7 @@ include_once 'navbar.php';
             <a class="btn btn-outline-lsa btn-lg my-2" href="contacto.php#cv">Subí tu CV</a>
         </div>
         <div class="col-md-4">
-                <img src="./media/cv.png" alt="curriculum" style="margin-top: -2em; width: 80%;">
+                <img src="./public/media/images/cv.png" alt="curriculum" style="margin-top: -2em; width: 80%;">
         </div>
     </div>
 </article>   
@@ -235,7 +166,7 @@ Importante: dado la inestabilidad económica de nuestro país, se reserva la vac
     <div class="row justify-content-center">
         <div class="col-md-4 align-content-center mt-5">
             <video width="100%" height="auto" autoplay muted loop>
-                <source src="./media/por que aprender LSA.mov" type="video/mp4">
+                <source src="./public/media/video/por que aprender LSA.mov" type="video/mp4">
             </video> 
         </div>
         <div class="col-md-5 p-5">
@@ -252,7 +183,7 @@ Importante: dado la inestabilidad económica de nuestro país, se reserva la vac
         <div class="col-md-4">
             <div class="ih-item square colored effect3 bottom_to_top" style="width:100% !important; height:auto !important;">
                 <a href="equipoDeTrabajo.php">
-                    <div class="img"><img src="./media/noelia.jpg" alt="img"></div>
+                    <div class="img"><img src="./public/media/images/noelia.jpg" alt="img"></div>
                         <div class="info">
                         <h3>Noelia Campana</h3>
                         <p>Profesora Sorda</p>
@@ -263,7 +194,7 @@ Importante: dado la inestabilidad económica de nuestro país, se reserva la vac
         <div class="col-md-4">
             <div class="ih-item square colored effect3 bottom_to_top" style="width:100% !important; height:auto !important;">
                 <a href="equipoDeTrabajo.php">
-                    <div class="img"><img src="./media/yazca.JPEG" alt="img"></div>
+                    <div class="img"><img src="./public/media/images/yazca.JPEG" alt="img"></div>
                         <div class="info">
                         <h3>Yazmin Silva</h3>
                         <p>Intérprete en Lengua de Señas</p>
@@ -274,7 +205,7 @@ Importante: dado la inestabilidad económica de nuestro país, se reserva la vac
         <div class="col-md-4">
             <div class="ih-item square colored effect3 bottom_to_top" style="width:100% !important; height:auto !important;">
                 <a href="equipoDeTrabajo.php">
-                    <div class="img"><img src="./media/IMG-4555.JPG" alt="img"></div>
+                    <div class="img"><img src="./public/media/images/IMG-4555.JPG" alt="img"></div>
                         <div class="info">
                         <h3>Facundo Cortez</h3>
                         <p>Intérprete e instructor en Lengua de Señas</p>
@@ -352,4 +283,14 @@ Importante: dado la inestabilidad económica de nuestro país, se reserva la vac
     </div>
 </div>
 </div>
+<section class="container my-5 p-5">
+    <div class="row justify-content-center">
+        <div class="col-md-12 text-center">
+            <h1 class="fw-bold text-center text-instituto">Manos que Hablan, Rostros que Expresan <sup>®</sup></h1>
+            <p class="text-muted">(INPI: Nro. resolución: 3370240 Expediente: 4041488)</p>
+            <p class="col-md-12 fs-4 justify-content-center mt-4 mb-2">Instituto de Lengua de Señas Argentina. Contamos con profesores Sordos e intérpretes avalados por el Ministerio de Educación</p>
+            <a href="lo-que-hacemos.php" class="btn btn-primary-lsa btn-lg mt-4">Lo que hacemos</a>            
+        </div>               
+    </div>
+</section>
  <?php include_once 'footer.php'; ?>

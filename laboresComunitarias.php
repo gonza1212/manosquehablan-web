@@ -17,7 +17,7 @@ include_once 'navbar.php';
         <div class="col-md-12">
             <div class="card-group">
                 <div class="card p-4">
-                    <img src="./media/IMG_5488.JPG" class="card-img-top" alt="...">
+                    <img src="./public/media/images/IMG_5488.JPG" class="card-img-top" alt="...">
                 </div>
             </div>  
         </div>

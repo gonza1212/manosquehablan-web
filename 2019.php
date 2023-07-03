@@ -22,10 +22,10 @@ include_once 'passwords.php';
           <div class="col-md-8">
             <h3>Video</h3> 
             <video width="100%" height="auto" controls>
-                <source src="./media/VID_20191106_121805821.mp4" type="video/mp4">
+                <source src="./public/media/video/VID_20191106_121805821.mp4" type="video/mp4">
             </video>
             <h5 class="mt-4">"Un día en Plaza Italia, a las cuatro de la tarde, un domingo en invierno, encontré ocho pibes en un colchón. Eso se llama \'ranchada\'. Tenían entre 8 y 14 años, uno estaba \'picándose\', otro estaba inhalando una bolsa con pegamento, otro fumaba paco, unos tomando merca y otro fumando porro. Yo estaba curtido en eso. Había hecho \'Ser Urbano\' y me senté ante unos pibes que la sociedad los estaba esquivando. Me senté al lado del que estaba con la bolsa, me contó quye se llama Ale, que tenía 11 años y en un momento le digo \'¿Por qué no soltás la bolsa, Ale?\'. \'¿Y qué agarro?\', me dijo. Fue una piña para mi mentalidad de clase media que desconoce", reveló.</h5>
-            <a href="#" class="btn btn-primary-lsa mt-3 mb-5">Conocer resto de la historia [Link a Instagram]</a>
+             <!-- <a href="#" class="btn btn-primary-lsa mt-3 mb-5">Conocer resto de la historia [Link a Instagram]</a> -->
           </div>
         </div>
       </div>';

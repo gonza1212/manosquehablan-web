@@ -144,6 +144,110 @@ include_once 'navbar.php';
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 6 Parte 1</h3>
+                                    <a href="2023_n1c6p1.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 6 Parte 2</h3>
+                                    <a href="2023_n1c6p2.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 6 Parte 3</h3>
+                                    <a href="2023_n1c6p3.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 6 Parte 4</h3>
+                                    <a href="2023_n1c6p4.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 6 Parte 5</h3>
+                                    <a href="2023_n1c6p5.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 7 Parte 1</h3>
+                                    <a href="2023_n1c7p1.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 7 Parte 2</h3>
+                                    <a href="2023_n1c7p2.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 7 Parte 3</h3>
+                                    <a href="2023_n1c7p3.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 7 Parte 4</h3>
+                                    <a href="2023_n1c7p4.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 8 Parte 1</h3>
+                                    <a href="2023_n1c8p1.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 8 Parte 2</h3>
+                                    <a href="2023_n1c8p2.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 8 Parte 3</h3>
+                                    <a href="2023_n1c8p3.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 p-3">
+                            <div class="card p-2">
+                                <div class="card-body">
+                                    <h3 class="card-title mb-5" style="white-space: nowrap">Clase N° 8 Parte 4</h3>
+                                    <a href="2023_n1c8p4.php" class="btn btn-lg btn-primary-lsa">Acceder</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>                    
                 </div>
                 <!-- ++++++++++++ NIVEL 4 ++++++++++++++++
